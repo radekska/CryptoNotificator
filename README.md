@@ -1,3 +1,5 @@
+Release date: 2019
+
 Crypto price notificator based on IFTTT services.
 
 Some screenshots below:
